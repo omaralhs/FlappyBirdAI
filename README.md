@@ -9,7 +9,7 @@ This is a Flappy Bird game implemented using Python and the NEAT (NeuroEvolution
 
 - Clone the repository to your local machine.
 - Install the required dependencies by running: `pip install -r requirements.txt`
-- Run the Flappy Bird game with NEAT by executing: `python flappy_bird_neat.py`
+- Run the Flappy Bird game with NEAT by executing: `Game.py`
 - The game will launch, and the AI will start learning to play Flappy Bird automatically using NEAT.
 - Sit back and watch as the AI improves its performance over generations!
 
